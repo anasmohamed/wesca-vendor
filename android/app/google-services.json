@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "486297151595",
+    "project_id": "wesca-food",
+    "storage_bucket": "wesca-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486297151595:android:15b11bd62826aebfd1e92e",
+        "android_client_info": {
+          "package_name": "com.wesca.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSZazYHdNv70CdgecNRQe-LnOeBd8SC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486297151595:android:15cbc853f4735f72d1e92e",
+        "android_client_info": {
+          "package_name": "com.wesca.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSZazYHdNv70CdgecNRQe-LnOeBd8SC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486297151595:android:0a891245c901c898d1e92e",
+        "android_client_info": {
+          "package_name": "com.wesca.vendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSZazYHdNv70CdgecNRQe-LnOeBd8SC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
